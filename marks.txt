@@ -1,0 +1,16 @@
+Name, Subject, Marks
+Ominda, Science, 76
+Vajira, Maths, 50
+Nuwan, Art, 98
+Nalin, Science, 90
+Upul, Maths, 88
+Ominda, Art, 40
+Vajira, Science, 62
+Vajira, Bio, 75
+Nuwan, Maths, 45
+Nalin, Bio, 70
+Upul, Art, 30
+Nalin, Commerce, 65
+Nuwan, Commerce, 70
+Ominda, Maths, 80
+Nalin, Maths, 60
