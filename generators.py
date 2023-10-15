@@ -16,3 +16,5 @@ print("Finish")
 
 for num in generator:
     print(f"In loop {num}")
+
+# https://www.linkedin.com/posts/binu-b-r-ph-a439a082_7-websites-that-will-teach-you-more-than-ugcPost-7107275223896313857-tImc?utm_source=share&utm_medium=member_desktop
