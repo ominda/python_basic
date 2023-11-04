@@ -1,7 +1,7 @@
 class Animals():
-    def __init__(self, name:str, bread:str) -> None:
+    def __init__(self, name:str, kind:str) -> None:
         self.name = name
-        self.bread = bread
-        print(self.name, self.bread)
+        self.kind = kind
+        print(self.name, self.kind)
 
 Animals('pinki', 'labdador')
