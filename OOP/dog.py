@@ -32,10 +32,11 @@ class Dog():
         return msg
     
 
-dog1 = Dog("Browney", 5, "Brown")
-dog2 = Dog("Whita", 3, "White")
-dog3 = Dog("Pinkey", 7, "Black & White")
+if __name__ == "__main__":
+    dog1 = Dog("Browney", 5, "Brown")
+    dog2 = Dog("Whita", 3, "White")
+    dog3 = Dog("Pinkey", 7, "Black & White")
 
-print(dog1.bark())
-print(dog2.run())
-print(dog3.eat())
+    print(dog1.bark())
+    print(dog2.run())
+    print(dog3.eat())

@@ -26,3 +26,4 @@ class Employee(Person):
 if __name__ == "__main__":
     rasanga = Employee("Rasanga", "826510298V", 40, 9872, "Senior Manager")
     print(rasanga.write())
+    print(rasanga.walk())

@@ -30,5 +30,6 @@ class School(Student):
 if __name__ == "__main__":
     student1 = School("Sanda", "199023430V", 15, 1000, "Science", "Grade 10")
     print(student1.run())
+    print(student1.walk())
 
     
